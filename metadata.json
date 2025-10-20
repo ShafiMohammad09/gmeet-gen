@@ -1,5 +1,0 @@
-{
-  "name": "MeetStream Partner Finder",
-  "description": "An application to randomly pair users and generate a Google Meet link for their conversation. This is a frontend simulation of a full-stack application that would require a backend to securely manage pairing and API calls.",
-  "requestFramePermissions": []
-}
